@@ -1,8 +1,7 @@
 ## Runner / Раннер (@runner_1213)
-<p>Мегакрутой</p>
+<p>Привет</p>
 
-# Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=runner1213&theme=calm&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=runner1213&theme=tokyonight&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
