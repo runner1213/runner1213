@@ -7,7 +7,7 @@
 </p>
 ---
 
-<p align="center" >
+<p>
   <img alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&theme=dark&border_radius=6&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
