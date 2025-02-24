@@ -9,7 +9,10 @@
 <p align="center" >
  <img alt="Most Used Langs", src="[https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&theme=dark&border_radius=6&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&theme=dark&locale=en&size_weight=0.8&count_weight=1.0)">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&layout=compact)
+
+<p align="center" >
+  <img alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&theme=dark&border_radius=6&include_all_commits=true&count_private=true&layout=compact">
+</p>
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=runner1213&theme=dark&locale=en&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
