@@ -12,4 +12,4 @@
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=runner1213&theme=dark&locale=en&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=runner1213&theme=dark&locale=en&date_format=j%20M%5B%20Y%5D&hide_border=true)](https://git.io/streak-stats)
