@@ -1,7 +1,8 @@
 ## Runner / Раннер x3
 <p>Привет</p>
 <p align="center" >
-<img alt="Java (8-22)", src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=64&label=%20&labelColor=ff9100&color=242323"> 
+<img alt="Java (8-25)", src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=64&label=%20&labelColor=ff9100&color=242323">
+<img alt="Python", src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=64&label=%20&labelColor=ff9100&color=242323">
 <img alt="CSS3", src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=64&label=%20&labelColor=%230f66d1&color=242323"> 
 <img alt="HTML5", src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=64&label=%20&labelColor=%23ff6224&color=242323">
 </p>
