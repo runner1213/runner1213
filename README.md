@@ -17,10 +17,7 @@
 ---
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&layout=compact&theme=dark&hide_border=true&border_radius=8"
-  >
+<img alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runner1213&theme=dark&border_radius=6&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <p align="center">
@@ -28,3 +25,5 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=runner1213&theme=dark&hide_border=true"
   >
 </p>
+
+---
