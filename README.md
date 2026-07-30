@@ -1,6 +1,6 @@
 # Runner / Руненер
 
-> Java backend developer • C developer
+> Java backend developer • C developer • Frontend JS developer
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&label=%20&labelColor=ff9100&color=242323">
